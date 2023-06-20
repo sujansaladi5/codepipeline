@@ -14,3 +14,4 @@ sudo ./install auto<br />
 sudo yum install -y python-pip<br />
 sudo pip install awscli<br />
 "# codepipeline" 
+"# new-repositary" 
